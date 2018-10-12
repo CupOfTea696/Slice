@@ -2,9 +2,9 @@
 
 namespace App;
 
-use Slice\App as SliceApp;
+use Slice\Slice;
 
-class App extends SliceApp
+class App extends Slice
 {
     public function boot()
     {
