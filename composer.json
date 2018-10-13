@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "cupoftea/slice-core": "^1.0",
+        "cupoftea/slice-core": "*@dev",
         "fideloper/proxy": "^4.0"
     },
     "autoload": {
@@ -23,5 +23,6 @@
         "sort-packages": true,
         "optimize-autoloader": true
     },
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
