@@ -12,7 +12,8 @@
     ],
     "require": {
         "cupoftea/slice-core": "*@dev",
-        "fideloper/proxy": "^4.0"
+        "fideloper/proxy": "^4.0",
+        "filp/whoops": "^2.2"
     },
     "autoload": {
         "psr-4": {
